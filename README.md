@@ -16,4 +16,18 @@ A **Java CLI project** to help you **track habits, calculate consistency strengt
 ---
 
 ## 🖼️ Sample Usage
+--- Habit Strength Calculator ---
+
+Create a New Habit
+
+Mark Today's Habit Completion
+
+View Habit Strength & Feedback
+
+Save and Exit
+Choose an option: 1
+Enter habit name: Morning Jog
+Enter habit description: Jog every morning for at least 20 minutes
+Enter frequency (Daily/Weekly): Daily
+Habit created successfully.
 
